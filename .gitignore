@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Documentation (large files, not for version control)
+docs/miuix/
+docs/yukihookapi/
+docs/原始apk-HyperTheme/
